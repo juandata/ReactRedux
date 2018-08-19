@@ -243,7 +243,7 @@ This starts a server and listens on port 8080 for connections. The app responds 
 Above, we have modified editor configurations. Alternatively, this can be configured at the project level by following [this article](https://medium.com/@netczuk/your-last-eslint-config-9e35bace2f99).
 
 #### Redux
-    [Redux](https://es.redux.js.org/) is a predictable state container for JavaScript apps. You can find a folder named redux in the client directory which contains trhee .js files : actions.js, reducers.js and store.js. Inside Template1 component which is inside the templates directory you can find an example of a component changing its parent component props via an action. 
+  [Redux](https://es.redux.js.org/) is a predictable state container for JavaScript apps. You can find a folder named redux in the client directory which contains trhee .js files : actions.js, reducers.js and store.js. Inside Template1 component which is inside the templates directory you can find an example of a component changing its parent component props via an action. 
 
 
 **Designed by**
