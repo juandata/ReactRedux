@@ -1,3 +1,0 @@
-Create molecules if necessary.
-For more info about atomic design go to :
-http://bradfrost.com/blog/post/atomic-web-design/
